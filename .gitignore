@@ -1,0 +1,7 @@
+__pycache__/
+*.zip
+*.pbix
+*.env
+.DS_Store
+.ipynb_checkpoints/
+
